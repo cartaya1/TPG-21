@@ -1,0 +1,31 @@
+{
+  "name": "TPG-21",
+  "version": "1.0.0",
+  "description": "This one try Generate a card with all information about employees of this company",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "scr": "scr",
+    "dist": "dist",
+    "__test__": "__test__"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cartaya1/TPG-21.git"
+  },
+  "keywords": [
+    "tpg"
+  ],
+  "author": "Luis Cartaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cartaya1/TPG-21/issues"
+  },
+  "homepage": "https://github.com/cartaya1/TPG-21#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
