@@ -1,5 +1,5 @@
 {
-  "name": "TPG-21",
+  "name": "tpg-21",
   "version": "1.0.0",
   "description": "This one try Generate a card with all information about employees of this company",
   "main": "index.js",
@@ -9,6 +9,14 @@
     "dist": "dist",
     "__test__": "__test__"
   },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^8.1.2",
+    "jest": "^27.0.6",
+    "js": "^0.1.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "test"
   },
@@ -24,8 +32,5 @@
   "bugs": {
     "url": "https://github.com/cartaya1/TPG-21/issues"
   },
-  "homepage": "https://github.com/cartaya1/TPG-21#readme",
-  "dependencies": {
-    "jest": "^27.0.6"
-  }
+  "homepage": "https://github.com/cartaya1/TPG-21#readme"
 }
