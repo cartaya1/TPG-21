@@ -6,7 +6,7 @@ const path = require("path");
 const fs = require("fs");
 
 const OUTPUT_DIR = path.resolve(__dirname, "dist");
-const outputPath = path.join(OUTPUT_DIR, "ïndex.html");
+const outputPath = path.join(OUTPUT_DIR, "index.html");
 
 const render = require("./lib/htmlRenderer");
 
