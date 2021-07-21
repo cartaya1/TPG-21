@@ -49,6 +49,7 @@ Cada tipo de empleado (gerente, ingeniero o pasante) tiene información ligerame
 
 `TEMPORARY OUT FOR TAKE SCREEN SHOT`
 ![GitHub license](./dist/screen.png)
+![GitHub license](./dist/myTeam.png)
 
 ## Video
 
