@@ -48,7 +48,7 @@ Cada tipo de empleado (gerente, ingeniero o pasante) tiene información ligerame
 ## Images 
 
 ![GitHub license](./myTeam.png)
-![GitHub license](./screen.png)
+
 
 ## Video
 
