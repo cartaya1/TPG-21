@@ -47,13 +47,13 @@ Cada tipo de empleado (gerente, ingeniero o pasante) tiene información ligerame
 
 ## Images 
 
-![GitHub license](./myTeam.png)
+![GitHub license](./dist/myTeam.png)
 
 
 ## Video
 
 `TEMPORARY OUT FOR TAKE SCREEN SHOT`
-![GitHub license](./shortvideo.gif)
+![GitHub license](./dist/shortvideo.gif)
 
 
 ## Installation
