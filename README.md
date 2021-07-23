@@ -77,7 +77,7 @@ node index.js
 
 ## Repository
 
-- [Project Repo](https://github.com/cartaya1/RTPG-21)
+- [Project Repo](https://github.com/cartaya1/TPG-21)
 
 ## GitHub
 
